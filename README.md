@@ -1,4 +1,4 @@
-# Sales_Insights_Data_Analysis-AtliQ_Hardware Using Power BI
+# Sales_Insights_Data_Analysis-AtliQ_Hardware Using Power BI with Final Dashboard/s
 
 Project description
 
