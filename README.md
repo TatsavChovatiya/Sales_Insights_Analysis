@@ -16,4 +16,6 @@ Skills needed to complete the job:
 
 1- Data Cleansing 2- DAX language 3- Analytical Skills 4- SQL Query Language 5- Business Intelligence Knowledge 6- Power Bi visualization
 
+**Final DashBoard:**
 
+![Dashboard](https://github.com/TatsavChovatiya/Sales_Insights_Data_Analysis-AtliQ_Hardware/assets/53991557/80a6aabf-c2fe-4ce7-af3a-b6014624ef5e)
