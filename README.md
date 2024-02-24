@@ -1,4 +1,4 @@
-# Sales_InsightsAnalysis Using Power BI with Final Dashboard/s
+# Sales_Insights_Analysis Using Power BI with Final Dashboard/s
 
 Project description
 
